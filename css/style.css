@@ -3,3 +3,8 @@
     height: 50px;
     width: 200px;
 }
+.blue {
+    background-color: aqua;
+    text-align: center;
+    padding: 20px 50px;
+}
